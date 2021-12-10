@@ -1,0 +1,27 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(£–ÎT8öí®¤Ú/
+9
+java:S1643"Use a StringBuilder instead.(¾Èëë8ûß¯¤Ú/
+>
+java:S1643"Use a StringBuilder instead.(À€îßüÿÿÿÿ8üß¯¤Ú/
+>
+java:S1643 "Use a StringBuilder instead.(ç áùÿÿÿÿ8üß¯¤Ú/
+9
+java:S1643#"Use a StringBuilder instead.(ÿŠ»Ÿ8üß¯¤Ú/
+9
+java:S1643&"Use a StringBuilder instead.(Èù‚Â8ýß¯¤Ú/
+9
+java:S1643)"Use a StringBuilder instead.(¯õÝ´8ýß¯¤Ú/
+>
+java:S1643,"Use a StringBuilder instead.(­šÄúÿÿÿÿ8ýß¯¤Ú/
+9
+java:S1643/"Use a StringBuilder instead.(”ÖŸæ8¸±¤Ú/
+9
+java:S16432"Use a StringBuilder instead.(œà÷8¸±¤Ú/
+9
+java:S16435"Use a StringBuilder instead.(Ü…€ò8•Â´¤Ú/
+>
+java:S16438"Use a StringBuilder instead.(ªž¯‹ýÿÿÿÿ8Ñ¤·¤Ú/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¹‹×
